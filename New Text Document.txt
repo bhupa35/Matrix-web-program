@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A1</title>
+    </head>
+    <body>
+        <h1>BHUPINDER SINGH</h1>
+        <b></i><u></p> I AM LIVING IN MONTREAL AND I AM A STUDENT.</p></u></i></b>
+    
+    <a href= "https://www.google.com/">click me!</a>
+    <img src = "blob:https://web.whatsapp.com/609ff213-dda9-4ff0-8a17-f1c1dc008ec6" alt= "image not available">
+   <strong>Strong text</strong>
+   <div> 
+    <h4>hello</h4>
+<p>Lorem ispum dolar sit amet consecturer adipising elit. Modi pariatur</p>
+</div>
+<div> 
+    <h4>hello</h4>
+<p>Lorem ispum dolar sit amet consecturer adipising elit. Modi pariatur</p>
+</div>
+<div> 
+    <h4>hello</h4>
+<p>Lorem ispum dolar sit amet consecturer adipising elit. Modi pariatur</p>
+</div>
+</body>
+</html>
