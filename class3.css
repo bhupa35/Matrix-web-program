@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+#firstDiv{
+    color:cyan;
+}
+#list2{
+    list-style: inside;
+}

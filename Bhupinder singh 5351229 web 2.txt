@@ -1,0 +1,108 @@
+class3.html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A1</title>
+        <link rel= "stylesheet" href="class3.css" />
+        <style>
+            p
+            {
+                line-height: 3cm;
+            }
+        </style>
+        <style>
+            h1{letter-spacing: 50px;}
+            p{letter-spacing: 5px;}
+        </style>
+    </head>
+    <body>
+        <h1>BHUPINDER SINGH</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem facere omnis optio vel perferendis corporis adipisci, similique fuga ipsa repellat inventore doloremque labore hic dolorem deleniti consequuntur officiis. Officia, pariatur!</p>\
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor et ipsum blanditiis porro? Quo maiores delectus debitis quisquam incidunt neque culpa, officiis saepe in rerum. Nihil minima vero nostrum porro.</p>
+        <link rel= "stylesheet" href="class3.css" />
+        <div id="firstDiv">
+            <ol id = "list1">
+                <li>apple</li>
+                <li>guava</li>
+                <ul id="list2">
+                    <li>brown</li>
+                    <li>black</li>
+            
+        <li>banana</li>
+        <li>orange</li>
+        <li>grape</li>
+        Vegetable
+        <ul>
+            <li>carrots</li>
+            <li>broccoli</li>
+            <li>potatoes</li>
+            <li>mushrooms</li>
+            <li>aspragus</li>
+            <li>beets</li>
+            <li>spinach</li>
+        </ul>
+        <li></li>
+        <table border="solid">
+            <tr>
+                <th>Sno</th>
+                <th>first Name</th>
+                <th>last name</th>
+                <th>city</th>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>bhupinder</td>
+                <td>singh</td>
+               <td>toronto</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>harpreet </td>
+                <td>singh</td>
+                <td>vancouver</td>
+            </tr>
+        </table>
+
+
+
+
+class3.css
+
+h1{
+    color: blue;
+}
+#firstDiv{
+    color:cyan;
+}
+#list2{
+    list-style: inside;
+}
+
+
+
+
+
+BHUPINDER SINGH
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem facere omnis optio vel perferendis corporis adipisci, similique fuga ipsa repellat inventore doloremque labore hic dolorem deleniti consequuntur officiis. Officia, pariatur!
+
+\
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor et ipsum blanditiis porro? Quo maiores delectus debitis quisquam incidunt neque culpa, officiis saepe in rerum. Nihil minima vero nostrum porro.
+
+apple
+guava
+brown
+black
+banana
+orange
+grape
+Vegetable
+carrots
+broccoli
+potatoes
+mushrooms
+aspragus
+beets
+spinach
+Sno	first Name	last name	city
+2	bhupinder	singh	toronto
+3	harpreet	singh	vancouver
