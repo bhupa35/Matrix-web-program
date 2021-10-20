@@ -1,0 +1,15 @@
+div{
+    height: 240px;
+    width: 133px;
+    background-color: yellow;
+    
+    
+}
+#welcome{
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-left: 133px solid blue;
+    border-right: 133px solid red;
+    
+}
