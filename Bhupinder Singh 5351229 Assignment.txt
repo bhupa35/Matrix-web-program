@@ -1,0 +1,70 @@
+1.let number=655;
+console.log(number);
+
+//check if the number is even
+if(number % 2 == 0) {
+    console.log("The number is even.");
+}
+
+// if the number is odd
+else {
+    console.log("The number is odd.");
+}
+
+
+2.function factorial(n){
+  let answer = 1;
+  if (n == 0 || n == 1){
+    return answer;
+  }else{
+    for(var i = n; i >= 1; i--){
+      answer = answer * i;
+    }
+    return answer;
+  }  
+}
+let n = 5;
+answer = factorial(n)
+console.log("The factorial of " + n + " is " + answer);
+
+3.console.log(Math.max(17677,8655,86645));
+
+4.var str1 = "Welcome  to   web  programming  course    ";
+console.log(str1.length)
+var str1 = "Welcome to web programming course";
+str1=str1.trim();
+console.log(str1.length)
+console.log(str1.toUpperCase())
+console.log(str1.substring(11,14))
+var str1 = "Welcome  to   web  programming  course    ";
+str1.replace("programming", "development");
+console.log(str1);
+
+
+5.var obj1 = {
+   firstname: "Bhupinder ",
+   lastname:"Singh",
+  age: 20,
+  dept: "Web design",
+  id:5351229,
+  role: function(){
+    console.log("Teaching web programming")
+  }
+}
+console.log(obj1)
+console.log(obj1.firstname)
+console.log(obj1.age)
+
+obj1.age = "21";
+console.log(obj1.age)
+
+6.const PI = 3.14;
+console.log(PI);
+let r=6;
+console.log(r);
+function multiply(PI,r){
+  return r*r*PI;
+}
+var result=multiply(PI,r);
+console.log(result)
+
